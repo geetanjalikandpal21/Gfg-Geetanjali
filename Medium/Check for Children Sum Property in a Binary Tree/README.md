@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/children-sum-parent/1">Check for Children Sum Property in a Binary Tree</a></h2><h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p>&nbsp;</p>
+<h3>Difficulty Level : Medium</h3><hr><div class="problems_problem_content__Xm_eO"><p>&nbsp;</p>
 <table style="border-collapse: collapse; width: 99.0507%; height: 40px; background-color: #fff9eb; border-color: #d79f0a;" border="1">
 <tbody>
 <tr style="height: 65.1px;">
